@@ -1,6 +1,11 @@
 {
 "python.pythonPath": "~/.pyenv/versions/3.9.5/envs/ENV_3.9.5/bin/python",
 "cSpell.words": [
-    "MEIPASS"
+    "MEIPASS",
+    "ntpath",
+    "openpyxl",
+    "pyinstaller",
+    "relx",
+    "winfo"
 ]
 }
